@@ -1,4 +1,4 @@
-# Artificial Neural Networks (ANN) Laboratory : Application for houses features insights
+# Artificial Neural Networks (ANN) : Application for houses features predictions
 
 ## Overview
 This laboratory project aims to explore the fundamentals of Artificial Neural Networks (ANN) through practical applications. The project is divided into two main parts:
