@@ -43,3 +43,7 @@ The project consists of several applications, each designed to reinforce the und
 2. Ensure Python 3.x is installed.
 3. Install required Python libraries:
 
+pip install numpy pandas tensorflow keras
+
+## Contributing
+Contributions to the project are welcome. Please fork the repository and submit pull requests with any enhancements.
